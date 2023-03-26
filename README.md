@@ -9,7 +9,7 @@ Built for iPhone and iPad as `1-Click` and `Siri Command` solution for controlli
 
 ## MacOS
 Built just for Mac as a `1-Click` and `Siri Command` solution for quickly toggling your AirPods connection on a Mac.
-**[Get the Shortcut](Mac/README.md)**
+**[Get the Shortcut](MacOS/README.md)**
 
 ![Mac Cover](MacOS/src/mac-cover.png)
 
