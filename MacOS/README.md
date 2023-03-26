@@ -1,5 +1,6 @@
 # MacOS AirPods Connection Shortcut
-Built for **Macs**
+Built for **Macs**   
+
 [![mac-download](src/mac-shortcut-download.svg)](https://www.icloud.com/shortcuts/206c9dced74247249c68fe967dfc202d)
 - [MacOS AirPods Connection Shortcut](#macos-airpods-connection-shortcut)
     - [About](#about)
